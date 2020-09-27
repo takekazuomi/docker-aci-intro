@@ -5,7 +5,7 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 header: 'Tokyo Jazug Night 28.'
-footer: 'Takekazu Omi @ Baleen.Studio'
+footer: 'Takekazu Omi @Baleen.Studio'
 headingDivider: 1
 inlineSVG: true
 style: |
@@ -16,9 +16,9 @@ style: |
 ---
 
 <style>
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap');
 section {
-    font-family: 'Noto Serif JP', serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 </style>
 
@@ -233,7 +233,7 @@ docker run --rm --init -v ${PWD}/docs:/home/marp/app -e LANG=${LANG} -p 8081:808
 
 今回のコンテンツ
 - [docker-aci-intro](https://github.com/takekazuomi/docker-aci-intro)
-あああああ
+
 
 # **Bookmarks**
 
